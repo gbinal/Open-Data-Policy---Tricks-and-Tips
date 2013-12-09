@@ -14,6 +14,9 @@ Open-Data-Policy---Tricks-and-Tips
 * enter: 'for ( var i = 0; i < datajson.length; i++) {datajson[i].keyword = datajson[i].keyword.split(",");}'
 * enter: 'document.body.textContent = JSON.stringify(datajson);'
 
+*[Note - can do the same with references and theme if needs be.]*
+
+
 
 
 
