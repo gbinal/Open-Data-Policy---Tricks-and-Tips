@@ -7,6 +7,8 @@ Open-Data-Policy---Tricks-and-Tips
 * Open the browser's console (f12 in chrome)
 * enter: 'count entries'
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 * [How to change comma-separated keywords into an array](https://github.com/gbinal/Open-Data-Policy---Tricks-and-Tips/blob/master/reformatting_keywords.md)
 
 ## Common problems 
