@@ -17,12 +17,46 @@
   1. keyword
   2. bureauCode
   3. programCode
+  4. theme
+  5. language
+  5. references
 8. Have you confirmed that the following time-based fields are formatted correctly?  
-9. 
-  
+  1. modified
+  2. temporal
+  3. issued
+9. Have you confirmed that each identifier is unique and is set to remain consistent?  
+10. Is each of the following fields represented only by approved values?  
+  1. accessLevel
+  2. dataQuality
+  3. accrualPeriodicity
 
 
 
+### The Long Tail
+* 
+
+
+
+## Loose Notes
+
+Acceptable Redirects  (how to test?)  
+
+   Impt. required if applicable fields (bureau code, program code, accessURL, accessLevelComment)  
+Number of entries   
+
+Formatting of keywords, references, theme, distribution, dataquality, ...  
+contact name, email   
+format  
+bureau code  
+program code   
+accessLevelComment  
+accessURL  
+spatial formatting   
+webservice  
+language formatting   
+accrualp usage  
+landingpage URL usage  
+theme  
 
 
 
