@@ -1,6 +1,8 @@
 Open-Data-Policy---Tricks-and-Tips
 ==================================
 
+## Convert JSON to CSV
+* [Great tool for this](http://konklone.io/json/)
 
 ## How to count entries in a data.json file.  
 * Open json file in Chrome.  
