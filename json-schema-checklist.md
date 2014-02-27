@@ -1,5 +1,17 @@
 
+1. Does www.agency.gov/data.json resolve?  
+2. Does the file contain valid json?  
+3. Does every entry include each of the following fields and are they populated?
+  4. title
+  5. description
+6. Are any fields empty?  If so, they should contain `null` or be removed from that record.  
 
+
+
+
+
+
+## Old Notes
 
 
 URL works   
