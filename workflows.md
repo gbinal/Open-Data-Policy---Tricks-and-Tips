@@ -1,5 +1,22 @@
 
 
+
+
+## I have a dataset - how do I get it in data.gov?  
+
+As agencies create and update a dataset, there are two important next steps:
+
+1. Host the inventories online
+2. Coordinate with your agency's data steward to include them in your agency's public data listing.
+
+The first step gives you a link that you can share with others so that they can download the files.  Each agency has several means of uploading files to the website - in addition to the open data coordinators, your webmasters, communications team, and IT staff should each be able to help get you upload these files.
+
+Once you have a URL for your inventory files, you will need to contact your open data coordinators to add a record of the file to your agency's public data listing (located at www.youragency.gov/data.json).   Each agency has different means of adding new records and may still be building a workflow for this but it will basically be a matter of noting some basic information about the file, such as title, description, last updated, download url, etc. 
+
+Data.gov and other websites automatically consume and display each agency's public data listing, so once you host a file and have it added to your agency's public data listing, it will become easier for everyone to find.
+
+
+
 ## How to go from Inventory.Data.gov to your Public Data Listing 
 
 * Navigate to your organization in inventory.data.gov.  
