@@ -1,6 +1,11 @@
 Open-Data-Policy---Tricks-and-Tips
 ==================================
 
+data.civicagency.org/offices
+data.civicagency.org/validate
+data.civicagency.org/changeset
+
+
 ## Convert JSON to CSV
 * [Great tool for this](http://konklone.io/json/)
 
