@@ -1,9 +1,10 @@
 Open-Data-Policy---Tricks-and-Tips
 ==================================
 
-data.civicagency.org/offices
-data.civicagency.org/validate
-data.civicagency.org/changeset
+* http://data.civicagency.org/offices  
+* http://data.civicagency.org/validate  
+* http://data.civicagency.org/changeset  
+* http://data.civicagency.org/digitalstrategy   
 
 
 ## Convert JSON to CSV
