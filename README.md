@@ -25,6 +25,9 @@ Open-Data-Policy---Tricks-and-Tips
 _The problem is most likely some sort of mime type directives in the web server (apache, etc). You can put in directives in the config for webserver or .htaccess for each site that tells it to handle certain file extensions differently and even specify down to path._
 
 
+* I need to get a table out of a PDF.
+ * [Check out Tabula](https://source.opennews.org/en-US/articles/introducing-tabula/).  
+
 
 
 
