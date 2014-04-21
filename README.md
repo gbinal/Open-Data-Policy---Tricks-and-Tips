@@ -5,6 +5,7 @@ Open-Data-Policy---Tricks-and-Tips
 * http://data.civicagency.org/validate  
 * http://data.civicagency.org/changeset  
 * http://data.civicagency.org/digitalstrategy   
+* http://data.civicagency.org/datagov/csv_to_json
 * https://github.com/GSA/data.gov/wiki/Resources-for-Data.json-Analysis  
 
 ## Convert JSON to CSV
